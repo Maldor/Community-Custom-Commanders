@@ -1,0 +1,18 @@
+{
+  "author": "Maldor96, nicb1, Stuart98", 
+  "build": "74525", 
+  "category": [
+    "in-game", 
+    "server-mod",
+	"Community-Powered"
+  ], 
+  "context": "server", 
+  "date": "2014/11/13", 
+  "description": "Adds commanders made by the community into Planetary Annihilation", 
+  "display_name": "Community Commanders", 
+  "enabled": true, 
+  "forum": "https://forums.uberent.com/threads/wip-community-custom-commanders.65930/", 
+  "identifier": "com.Community.Commanders", 
+  "priority": 100, 
+  "version": ".1"
+}
